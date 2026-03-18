@@ -10,7 +10,7 @@ Este es el clásico juego piedra papel o tijera
    3. Extrae el contenido.
       
 4. Haz doble clic en el archivo `piedra-papel-tijera-juego.pyw` para iniciar la aplicación.
-   Nota: No es necesario instalar librerías externas, ya que utiliza `tkinter` que ya viene con python.
+  * Nota: No es necesario instalar librerías externas, ya que utiliza `tkinter` que ya viene con python.
 ## Instrucciones
 - Elige una de las tres opciones haciendo clic en los botones de colores.
 - El sistema mostrará quién ganó la ronda y actualizará el marcador automáticamente.
