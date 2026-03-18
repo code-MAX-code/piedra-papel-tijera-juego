@@ -1,4 +1,4 @@
-# piedra papel tijera juego
+# Piedra Papel o Tijera Juego
 Este es el clásico juego piedra papel o tijera
 
 ## Cómo ejecutar el juego
