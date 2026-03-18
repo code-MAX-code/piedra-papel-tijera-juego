@@ -4,7 +4,7 @@ Este es el clásico juego piedra papel o tijera
 ## Cómo ejecutar el juego
 1. Asegúrate de tener Python 3 instalado en tu computadora.
 2. Descarga el archivo `piedra-papel-tijera-juego.pyw`.
-      Instrucciones de descarga:
+   # Instrucciones de descarga:
    1. Haz clic en el botón verde Code./n
    2. Selecciona Download ZIP. 
    3. Extrae el contenido.
